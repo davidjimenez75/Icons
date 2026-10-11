@@ -6,6 +6,8 @@ These are plain 512×512 PNG images, not a full icon theme. Use them to give ind
 
 ## Available colors
 
+![All available folder colors](preview.png)
+
 | Light (`./`) | Dark (`./dark/`) |
 |---|---|
 | azure, blue, brown, cyan, gold, green, green-dark, green-light, green-medium, grey, olive, orange, pink, purple, red, yellow | blue, brown, cyan, green, grey, orange, pink, purple, red, yellow |
